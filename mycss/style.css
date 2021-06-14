@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Samim";
+    src: url("../fonts/Samim.ttf")format("ttf");
+    src: url("../fonts/Samim-Bold.ttf")format("ttf");
+    src: url("../fonts/Samim.eot")format("eot");
+    src: url("../fonts/Samim.woff")format("woff");
+    font-weight: normal;
+    font-size: normal;
+}
+
+body {
+    background: url("../img/mesmerizing-rooftop-view-manhattan-new-york-during-sunset-hour.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    font-family: "Samim" !important;
+    font-weight: bold;
+}
